@@ -1,0 +1,695 @@
+[33mcommit c7509347f74cd4e29e1289f1548528a7e21f3a6e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/production-3[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cfb21d2 96bbb52
+Author: Coding For Entrepreneurs <codingforentrepreneurs@gmail.com>
+Date:   Wed Sep 29 22:52:20 2021 -0500
+
+    Merge pull request #4 from jgirardet/patch-1
+    
+    fix #3
+
+[33mcommit cfb21d2b23f09a59bc497544d1508a1966e3cd6a[m
+Author: Coding For Entrepreneurs <codingforentrepreneurs@gmail.com>
+Date:   Wed Sep 29 17:50:38 2021 -0500
+
+    Update prod.yaml
+
+[33mcommit 928a886c751eaf94724f51c851a91892540de884[m
+Author: Coding For Entrepreneurs <codingforentrepreneurs@gmail.com>
+Date:   Wed Sep 29 17:50:02 2021 -0500
+
+    Create pull-validate.yaml
+
+[33mcommit edc6377b03d4ec7028f1e65f6f8e73c89283b538[m[33m ([m[1;31morigin/91-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Sep 29 17:25:43 2021 -0500
+
+    91 - Requesting Inventory From Meal Queue Actions
+
+[33mcommit e5e7f45be04574672a5024a0c71e71bff90243be[m[33m ([m[1;31morigin/91-start[m[33m, [m[1;31morigin/90-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Sep 29 16:50:46 2021 -0500
+
+    90 - Calculation Function & Custom Signals
+
+[33mcommit 60e8659c5877d9fbcd05b93736009e7d73e98b12[m[33m ([m[1;31morigin/90-start[m[33m, [m[1;31morigin/89-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Sep 29 12:55:33 2021 -0500
+
+    89 - Calculate Meal Queue Ingredient Totals
+
+[33mcommit b1cc8a3ca8ca029af8f85d46b42b6955ffb1b073[m[33m ([m[1;31morigin/89-start[m[33m, [m[1;31morigin/88-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Sep 28 17:36:35 2021 -0500
+
+    88 - Meal Queue Toggle View
+
+[33mcommit d0e1a51ee363112e0b49aaed8b73ecba4b3d5ee4[m[33m ([m[1;31morigin/88-start[m[33m, [m[1;31morigin/87-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Sep 28 16:28:27 2021 -0500
+
+    87 - Toggle Recipes into Meal Queue & Test
+
+[33mcommit 9590a0b7ad61006d3d4b009e9285279a9116c530[m[33m ([m[1;31morigin/87-start[m[33m, [m[1;31morigin/86-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Sep 28 16:10:18 2021 -0500
+
+    86 - Creating the Meal Queue
+
+[33mcommit 96bbb5272bb39b6b3518b5c50c282597cd851303[m
+Author: jgirardet <ijkl@netc.fr>
+Date:   Tue Sep 28 09:43:06 2021 +0200
+
+    fix #3
+
+[33mcommit 0527c467f0d9d88b182d2e514c29ef6188685afc[m[33m ([m[1;31morigin/86-start[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Sep 27 23:00:26 2021 -0500
+
+    85 - Adding Bootstrap & the tip of the Bootstrap Iceberg
+
+[33mcommit 63d82a1ecf0e688452616dc236139d578804451b[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Sep 27 22:38:40 2021 -0500
+
+    84 - Microservice to Database
+
+[33mcommit 2490332613dbe7ed90b89bb5a611aa6ded24675f[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Sep 20 17:48:55 2021 -0500
+
+    83 - Parsing OCR Microservice Results
+
+[33mcommit 7601a720bb0103fdbd9baa789d50bd463af7fcd2[m[33m ([m[1;31morigin/82-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Sep 20 15:41:41 2021 -0500
+
+    Allow collectstatic step to fail
+
+[33mcommit 14fae9e848dc31f6a7fd75289d3dbdd70e364fcd[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Sep 20 15:37:16 2021 -0500
+
+    Updated collectstatic action
+
+[33mcommit fffc38d8ae2e4258b96e06cce9ea36e2dd98a089[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Sep 20 15:36:21 2021 -0500
+
+    Collectstatic workflow
+
+[33mcommit 2d52c67097439234e335f514a92d5397513bfbcd[m[33m ([m[1;31morigin/82-start[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Sep 20 00:57:36 2021 -0500
+
+    Updated readme
+
+[33mcommit 142d9e15a32e6a2fb6631491cc8035b4fcfdef1d[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 23:52:29 2021 -0500
+
+    Added OCR Keys
+
+[33mcommit df8105cffef0054df396343f907fd6a864082620[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 23:41:30 2021 -0500
+
+    Updated app configuration
+
+[33mcommit ae960b4eaa916eda46587e4043817c3e7677ba4d[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 23:36:54 2021 -0500
+
+    Removed auto run on example
+
+[33mcommit 7c970856882b07d8c61f984b33ba1e7d13b8eb9c[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 23:36:07 2021 -0500
+
+    Added production ci/cd yaml
+
+[33mcommit f5a5379ce2468bddd4661c62bb14f1a44368dab3[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 23:34:25 2021 -0500
+
+    Updated app spec and ci/cd workflow
+
+[33mcommit 8ceb4e50840c41357c69c48dbcec454c9de7a001[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 23:23:18 2021 -0500
+
+    Updated git repo
+
+[33mcommit 1e1b6da007357df0e49709f49ecc2bd5d5f57b73[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 23:21:42 2021 -0500
+
+    Moved app spec to use git instead of github integration
+
+[33mcommit d8e02bc8b7d0a29fbbc2735cd1ee21cdb7bc3528[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 23:18:11 2021 -0500
+
+    Updated app spec
+
+[33mcommit 381f4b17955042d44b2bdb4f820c5d93ee69f5ac[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 22:57:10 2021 -0500
+
+    Added code checkout to deploy workflow
+
+[33mcommit 28acd2437cfb573e012a9bf0987f33c2862ea325[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 22:32:11 2021 -0500
+
+    Renamed workflow to deploy
+
+[33mcommit 324d0fd60ec8862d76829639a3384dbd26488fd0[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 22:30:22 2021 -0500
+
+    updated ci/cd
+
+[33mcommit 89a8c3dcca2bd847e1ed49e6440099c3dabc3056[m[33m ([m[1;31morigin/81-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 22:29:06 2021 -0500
+
+    81 - CI / CD Workflows for Django
+
+[33mcommit b7e1b9358a9cd00ce588eae4eac162c68c24bfc6[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 22:19:32 2021 -0500
+
+    Updated workflow
+
+[33mcommit ab2a49378aaf15806afdbf014d42fb97019ba239[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 22:10:49 2021 -0500
+
+    Updated main ci/cd pipeline
+
+[33mcommit a0580d67146a33204def44d7fd7661b0ea6045e1[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 22:02:08 2021 -0500
+
+    Added our first ci workflow
+
+[33mcommit 913d77fcc9dbbd102ee4641834d2d10f86b186fc[m[33m ([m[1;31morigin/81-start[m[33m, [m[1;31morigin/80-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 21:15:57 2021 -0500
+
+    80 - Deploy Django to Do App Platform via doctl CLI
+
+[33mcommit 6da29dd2083d71233ee0e3b55f86b05703abb7c7[m[33m ([m[1;31morigin/80-start[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 20:20:12 2021 -0500
+
+    app.yaml outline
+
+[33mcommit 96b02fa8e60e47c96051ffb1ad12395c184c9c34[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sun Sep 19 20:18:47 2021 -0500
+
+    Updated readme
+
+[33mcommit e169c97922c301f544bc59a339161fc586cabee2[m[33m ([m[1;31morigin/79-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Sep 8 15:15:37 2021 -0500
+
+    79 - Microservice API for Text Extraction
+
+[33mcommit 3292014c4106c121a2752c5926bfebd88182b04a[m[33m ([m[1;31morigin/79-start[m[33m, [m[1;31morigin/78-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Sep 8 12:02:28 2021 -0500
+
+    78 - Uploading Files with Django & HTMX
+
+[33mcommit 316edc0dd9661566e3b223d5e04299465256e831[m[33m ([m[1;31morigin/78-start[m[33m, [m[1;31morigin/77-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Sep 8 11:43:43 2021 -0500
+
+    77 - View for Handling File or Image Uploads
+
+[33mcommit aeca1a98a663c3552b376ab8ba4432f0b2888784[m[33m ([m[1;31morigin/77-start[m[33m, [m[1;31morigin/76-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Sep 8 11:25:31 2021 -0500
+
+    76 - Upload Images in Django Models
+
+[33mcommit 316067ed5f5da595a745c86b83eb49e9159be520[m[33m ([m[1;31morigin/production-2[m[33m, [m[1;31morigin/76-start[m[33m, [m[1;31morigin/75-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sat Aug 14 15:26:56 2021 -0500
+
+    75 - Django Static Files in Production on DigitalOcean Spaces
+
+[33mcommit 928673eab9161cca60c4103311614c92a4643194[m[33m ([m[1;31morigin/75-start[m[33m, [m[1;31morigin/74-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Sat Aug 14 11:20:40 2021 -0500
+
+    74 - Static Files in Development
+
+[33mcommit 46c0b0bd64ae50137a88bdb2ddb0ae7db91375f2[m[33m ([m[1;31morigin/74-start[m[33m, [m[1;31morigin/73-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Aug 12 15:52:03 2021 -0500
+
+    73 - Deleting Objects with HTMX
+
+[33mcommit d816c7c8eedc48d85bf58f3a6aca3fd7d8d7267a[m[33m ([m[1;31morigin/73-start[m[33m, [m[1;31morigin/72-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Aug 12 15:26:00 2021 -0500
+
+    72 - Model Object Delete View in Django
+
+[33mcommit 190c6f4e5b24575f67e8ea84b5c38dd9787e03c7[m[33m ([m[1;31morigin/72-start[m[33m, [m[1;31morigin/71-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 11 16:27:50 2021 -0500
+
+    71 - HTMX Typeahead & Search in Django
+
+[33mcommit 64c26a74060256c6199cad7fb5ebacc6fa4e9b1b[m[33m ([m[1;31morigin/71-start[m[33m, [m[1;31morigin/70-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 11 15:00:39 2021 -0500
+
+    70 - HTMX Response Header
+
+[33mcommit f3b6dc01546083370dfd38876173ed1f4cb69c82[m[33m ([m[1;31morigin/70-start[m[33m, [m[1;31morigin/69-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 11 14:38:02 2021 -0500
+
+    69 - Auto Save with HTMX
+
+[33mcommit ee98140a5a014c45676284395f367a1379c33701[m[33m ([m[1;31morigin/69-start[m[33m, [m[1;31morigin/68-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 11 11:24:44 2021 -0500
+
+    68 - The HTMX Approach to Editing QuerySets
+
+[33mcommit 9ee34e9d929bc9a9a7011170bd5d9590e5d6aae3[m[33m ([m[1;31morigin/68-start[m[33m, [m[1;31morigin/67-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 11 10:42:34 2021 -0500
+
+    67 - HMTX & JavaScript Working Together
+
+[33mcommit 3153563bcaf81c06a38192ad847f50c08921a6b0[m[33m ([m[1;31morigin/67-start[m[33m, [m[1;31morigin/66-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 11 10:23:01 2021 -0500
+
+    66 - HTMX, JavaScript & Django Fixtures
+
+[33mcommit 18925333ffe7868665b859f53b3823d89fd5a05d[m[33m ([m[1;31morigin/66-start[m[33m, [m[1;31morigin/65-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Aug 10 14:29:22 2021 -0500
+
+    65 - Dynamic New Forms in Django Formset via HTMX
+
+[33mcommit f23e9aaf8c28a132c53559531a273ecca2b29cef[m[33m ([m[1;31morigin/65-start[m[33m, [m[1;31morigin/64-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Aug 10 13:47:00 2021 -0500
+
+    64 - Dynamic New Forms in a Django Formset via JavaScript
+
+[33mcommit 8d2804506eb93c894fa85f796bb5d1a38bccc70c[m[33m ([m[1;31morigin/64-start[m[33m, [m[1;31morigin/63-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Aug 10 10:54:12 2021 -0500
+
+    63 - Rendering Form Fields & More in Templates
+
+[33mcommit bd443f6e99419b0d669f637854f2397aeb07cad0[m[33m ([m[1;31morigin/63-start[m[33m, [m[1;31morigin/62-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Aug 10 10:35:52 2021 -0500
+
+    62 - Customizing Form Fields, Widgets, Placeholders, & CSS Classes
+
+[33mcommit 791b2d5107cf3dae265e22df2d23ffec95544395[m[33m ([m[1;31morigin/62-start[m[33m, [m[1;31morigin/61-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Aug 9 12:37:49 2021 -0500
+
+    61 - Manage QuerySets with Django Formsets and modelformset_factory
+
+[33mcommit a1e6dd8664baf3f9f75699cb83db0aeca625ee58[m[33m ([m[1;31morigin/61-start[m[33m, [m[1;31morigin/60-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Aug 9 12:08:09 2021 -0500
+
+    60 - Django 2 Forms, 1 View
+
+[33mcommit c507ac34d587b0c966c439688a9d1c74b51f61ef[m[33m ([m[1;31morigin/60-start[m[33m, [m[1;31morigin/59-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Fri Aug 6 12:55:59 2021 -0500
+
+    59 - CRUD Templates for the Recipes App
+
+[33mcommit 7b627e8a0ceebcf833550bccd6e79d04b4360289[m[33m ([m[1;31morigin/59-start[m[33m, [m[1;31morigin/58-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Fri Aug 6 12:38:56 2021 -0500
+
+    58 - Django urls, includes, and app_name
+
+[33mcommit 838be879a682d688b41890fc77d6f9f0e4936997[m[33m ([m[1;31morigin/58-start[m[33m, [m[1;31morigin/57-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Fri Aug 6 12:25:29 2021 -0500
+
+    57 - CRUD Views for Recipe Model
+
+[33mcommit 5a218688e22a7832944e3924673121abcc9cc5ed[m[33m ([m[1;31morigin/57-start[m[33m, [m[1;31morigin/56-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Aug 5 17:21:54 2021 -0500
+
+    56 - Use Pint to Convert Units
+
+[33mcommit 1224d8b81e9745e3f49c3fe19d571cd2be070dc8[m[33m ([m[1;31morigin/56-start[m[33m, [m[1;31morigin/55-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Aug 5 16:50:44 2021 -0500
+
+    55 - Auto Set Quantity as a Float
+
+[33mcommit d59185138c77604470bb7444ac9e11f16ca924b9[m[33m ([m[1;31morigin/55-start[m[33m, [m[1;31morigin/54-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Aug 5 16:35:05 2021 -0500
+
+    54 - Test Custom Model Validation
+
+[33mcommit 1248b4e3f17bd0c1b7af15436ebb7fe99d7f847c[m[33m ([m[1;31morigin/54-start[m[33m, [m[1;31morigin/53-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Aug 5 16:22:09 2021 -0500
+
+    53 - Custom Validation for Unit Measurements
+
+[33mcommit fb5344cf30ba08b59940ad932785f2482f689fee[m[33m ([m[1;31morigin/53-start[m[33m, [m[1;31morigin/52-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Aug 5 13:01:33 2021 -0500
+
+    52 - Understanding Relationships between Models via Tests
+
+[33mcommit 2684d48af78c8935cd3468deba6bcdbf711b08a4[m[33m ([m[1;31morigin/52-start[m[33m, [m[1;31morigin/51-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Aug 5 12:27:02 2021 -0500
+
+    51 - Admin Inlines for Foriegn Keys
+
+[33mcommit a4d21daf86cc78ddd2536aaac4fd786e2c0e1f29[m[33m ([m[1;31morigin/51-start[m[33m, [m[1;31morigin/50-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Aug 5 12:04:34 2021 -0500
+
+    50 - User Generated Content & The Recipes App
+
+[33mcommit 253dbce659b7bfa802b58ce3bd4240c8de5654a8[m[33m ([m[1;31morigin/50-start[m[33m, [m[1;31morigin/49-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 4 16:21:52 2021 -0500
+
+    49 - Basic Data Connection with Foreign Keys
+
+[33mcommit 925510184d9fd73f8685ade7da920a9f0181b2e7[m[33m ([m[1;31morigin/49-start[m[33m, [m[1;31morigin/48-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 4 16:09:29 2021 -0500
+
+    48 - Test Article Search Manager
+
+[33mcommit ee8c1f25bd79ca01bf6e6ba62ab0bf9c430ca27e[m[33m ([m[1;31morigin/48-start[m[33m, [m[1;31morigin/47-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 4 16:01:20 2021 -0500
+
+    47 - Model Managers & Custom QuerySets for Search
+
+[33mcommit a0f815663e7a8e8e20e797be1f21b4d668b5e020[m[33m ([m[1;31morigin/47-start[m[33m, [m[1;31morigin/46-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 4 15:40:57 2021 -0500
+
+    46 - Complex Search using Django Q Lookups
+
+[33mcommit a3d2d1d6356d5926d5c1b95131978b6d3026c86b[m[33m ([m[1;31morigin/46-start[m[33m, [m[1;31morigin/45-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 4 15:30:28 2021 -0500
+
+    45 - Django URLs Reverse
+
+[33mcommit 21bc4c68974e0cf7de1a6eddeb96a2ddeb2773a3[m[33m ([m[1;31morigin/45-start[m[33m, [m[1;31morigin/44-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 4 15:21:42 2021 -0500
+
+    44 - get_absolute_url
+
+[33mcommit 21022ba85463ab37229995d7fc84961bd0c44596[m[33m ([m[1;31morigin/44-start[m[33m, [m[1;31morigin/43-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 4 15:16:42 2021 -0500
+
+    43 - Slugs in Dynamic Urls
+
+[33mcommit e54f106b60e63440f9093b32db15cb8141230e2f[m[33m ([m[1;31morigin/43-start[m[33m, [m[1;31morigin/42-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 4 13:29:35 2021 -0500
+
+    42 - Testing Article Model Part 2
+
+[33mcommit 431525218ba655838db3549bdb2a3e7afafa5430[m[33m ([m[1;31morigin/42-start[m[33m, [m[1;31morigin/41-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Aug 4 13:26:00 2021 -0500
+
+    41 - Testing Article Model Part 1
+
+[33mcommit beae19b57757025e0048dacc95959376c02188e9[m[33m ([m[1;31morigin/41-start[m[33m, [m[1;31morigin/40-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Aug 3 17:46:23 2021 -0500
+
+    40 - Auto Generate Slugs with Recursion
+
+[33mcommit ec0ff3afead918348c687e693cde60782967b91f[m[33m ([m[1;31morigin/40-start[m[33m, [m[1;31morigin/39-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Aug 3 17:23:40 2021 -0500
+
+    39 - Django QuerySets & Lookups
+
+[33mcommit abd5b29c97941397595b926d0c80f9c50993513e[m[33m ([m[1;31morigin/39-start[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Aug 3 12:49:34 2021 -0500
+
+    Django Queryset & Lookups Reference Guide
+
+[33mcommit c7494fc20cb5e73d68122afd2a66a97c1c10b19e[m[33m ([m[1;31morigin/38-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Aug 3 12:44:07 2021 -0500
+
+    38 - Django pre_save & post_save signals
+
+[33mcommit 65eb25ff54d66d162dd7070bacd4840fe93d7709[m[33m ([m[1;31morigin/38-start[m[33m, [m[1;31morigin/37-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Aug 3 11:25:40 2021 -0500
+
+    37 - SlugField & Override Save Method
+
+[33mcommit 5ca951d3c3dc9b26a91d129491cbac3e91a93523[m[33m ([m[1;31morigin/37-start[m[33m, [m[1;31morigin/36-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Fri Jul 30 15:08:30 2021 -0500
+
+    36 - Making Changes to Models & Fields
+
+[33mcommit 809adf2329410a977069af6036e54e106db68d13[m[33m ([m[1;31morigin/36-start[m[33m, [m[1;31morigin/35-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Fri Jul 30 12:21:13 2021 -0500
+
+    35 - Automated Test Basics
+
+[33mcommit 4ee18d6011118c583eb4e896a125a2a6428dd882[m[33m ([m[1;31morigin/production-1[m[33m, [m[1;31morigin/35-start[m[33m, [m[1;31morigin/34-start[m[33m, [m[1;31morigin/34-end[m[33m, [m[1;31morigin/33-start[m[33m, [m[1;31morigin/33-end[m[33m)[m
+Merge: d853f3a 2ce6208
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 27 17:37:43 2021 -0500
+
+    Merge branch '32-end'
+
+[33mcommit 2ce620878c10a634cb5106a233155551888a7bb5[m[33m ([m[1;31morigin/32-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 27 17:36:54 2021 -0500
+
+    32 - Prepare Django for DigitalOcean App Platform
+
+[33mcommit d853f3aa68365d2bda5ac8c693ba90c5b3b70ac8[m
+Merge: 096cd19 d78cc8e
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 27 17:23:30 2021 -0500
+
+    Merge branch '31-end'
+
+[33mcommit d78cc8e4524174e95898aa37b2064af2aa9c4b33[m[33m ([m[1;31morigin/32-start[m[33m, [m[1;31morigin/31-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 27 17:21:32 2021 -0500
+
+    31 - Environment Variables & dotenv
+
+[33mcommit 096cd199b56c0ff1e45a781401b6235a89cbf2f1[m
+Merge: 1ed38e0 5caf7bf
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Jul 26 23:05:30 2021 -0500
+
+    Merge branch 'main'
+
+[33mcommit 1ed38e018746fea4aff30e2b3d1db5a0e5213fd6[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Jul 26 22:59:22 2021 -0500
+
+    Prepare for first deploment
+
+[33mcommit 5caf7bf09b1a8c58451a3630fc1626de6eb7dbc8[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Jul 26 17:29:04 2021 -0500
+
+    31 - Deploy to DigitalOcean App Platform updated
+
+[33mcommit eb0bf91d02628bff9cd5cd57a93c4070afdfaf5b[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Jul 26 17:06:51 2021 -0500
+
+    31 - Deploy to DigitalOcean App Platform updated
+
+[33mcommit 7e14e35dee5c9acbe6be2b47c0d9a57c14a213a4[m
+Author: CFE <hello@teamcfe.com>
+Date:   Mon Jul 26 16:41:19 2021 -0500
+
+    31 - Deploy to DigitalOcean App Platform
+
+[33mcommit 0c6a62ca38486cc0b288b329e8c659e992f9caa1[m[33m ([m[1;31morigin/31-start[m[33m, [m[1;31morigin/30-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Fri Jul 23 11:52:21 2021 -0500
+
+    30 - Login via Django AuthenticationForm
+
+[33mcommit 710a2f9e17b919e812913e45548cfe9b03b5b411[m[33m ([m[1;31morigin/30-start[m[33m, [m[1;31morigin/29-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Fri Jul 23 11:43:33 2021 -0500
+
+    29 - Register a User via Built-in Model Form
+
+[33mcommit 4a7577bc3d85f8042cef6d66e6c8659b3ab0d0d2[m[33m ([m[1;31morigin/29-start[m[33m, [m[1;31morigin/28-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Fri Jul 23 11:30:41 2021 -0500
+
+    28 - Django Model Form for Article Model
+
+[33mcommit f83514d20d8561f8eb3560837c33cafeb7781713[m[33m ([m[1;31morigin/28-start[m[33m, [m[1;31morigin/27-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Fri Jul 23 11:15:36 2021 -0500
+
+    27 - Basic Django Form
+
+[33mcommit 3b884d12c2dd623746b19a78941973f51e4623b3[m[33m ([m[1;31morigin/27-start[m[33m, [m[1;31morigin/26-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Jul 22 12:56:36 2021 -0500
+
+    26 - Creating a User Required Page
+
+[33mcommit 2f0ec6c270269571a9d7a32d4a4896b347d81300[m[33m ([m[1;31morigin/26-start[m[33m, [m[1;31morigin/25-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Jul 22 12:36:59 2021 -0500
+
+    25 - Logout View
+
+[33mcommit 351f93d64bbfb5ee81c704c45f29e8290b857c7e[m[33m ([m[1;31morigin/25-start[m[33m, [m[1;31morigin/24-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Jul 22 12:24:42 2021 -0500
+
+    24 - Create a Login View to Authenticate Users
+
+[33mcommit 4dc2a4536a5ed326706e5dcf3fe04476cfb2bf7e[m[33m ([m[1;31morigin/24-start[m[33m, [m[1;31morigin/23-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Jul 22 12:06:33 2021 -0500
+
+    23 - Basic HTML Form
+
+[33mcommit 059f8d70b4730d894ebe6cee3ead716a0fcccde8[m[33m ([m[1;31morigin/23-start[m[33m, [m[1;31morigin/22-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Thu Jul 22 11:06:08 2021 -0500
+
+    22 - Search Form & Request Data
+
+[33mcommit 33d87f77a45735ff1fbdfa177b633f7da0b6688f[m[33m ([m[1;31morigin/22-start[m[33m, [m[1;31morigin/21-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Jul 21 16:54:31 2021 -0500
+
+    21 - Register Model in the Admin
+
+[33mcommit 3843d47d2bdb08351a8f3bd9f594583ea07c22df[m[33m ([m[1;31morigin/21-start[m[33m, [m[1;31morigin/20-start[m[33m, [m[1;31morigin/20-end[m[33m, [m[1;31morigin/19-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Jul 21 16:37:36 2021 -0500
+
+    19 - Dynamic URL Routing
+
+[33mcommit 2b342f046e3134aa594f9f22ec8352e34b16cdea[m[33m ([m[1;31morigin/19-start[m[33m, [m[1;31morigin/18-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Jul 21 16:15:00 2021 -0500
+
+    18 - Listing Data in Views & Templates
+
+[33mcommit ef738907b673ce8fb5cbf00803af4c1694cf77a8[m[33m ([m[1;31morigin/18-start[m[33m, [m[1;31morigin/17-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Wed Jul 21 12:37:52 2021 -0500
+
+    17 - Django Template Basics
+
+[33mcommit 157640643bb1ddfc0c9649aa412424a97c657b3d[m[33m ([m[1;31morigin/17-start[m[33m, [m[1;31morigin/16-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 20 15:22:02 2021 -0500
+
+    16 - Rendering Data from our Database in a View
+
+[33mcommit 2328a6c8d8943426029cbf2f55062f6d0c531363[m[33m ([m[1;31morigin/16-start[m[33m, [m[1;31morigin/15-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 20 15:15:13 2021 -0500
+
+    15 - Writing & Reading data in Python Shell
+
+[33mcommit 04daebf583b887a3698bac86afe7032db93bba3c[m[33m ([m[1;31morigin/15-start[m[33m, [m[1;31morigin/14-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 20 14:52:54 2021 -0500
+
+    14 - INSTALLED_APPS & Migrations
+
+[33mcommit fe88946e287697bd892d491463b8bbfa434f1f99[m[33m ([m[1;31morigin/14-start[m[33m, [m[1;31morigin/13-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 20 14:39:21 2021 -0500
+
+    13 - Our First Database Model
+
+[33mcommit d35ca3a81eb0ba927906e206e8098c9ad10d5ced[m[33m ([m[1;31morigin/13-start[m[33m, [m[1;31morigin/12-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 20 14:19:05 2021 -0500
+
+    12 - Enriching a View with Data
+
+[33mcommit b5c42b002c61097e07724bdb780b92ceaabe5107[m[33m ([m[1;31morigin/12-start[m[33m, [m[1;31morigin/11-end[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 20 14:13:29 2021 -0500
+
+    11 - Handling a url route
+
+[33mcommit 4e9f811a7ab03037e829cbb8159551ec90c6a77b[m[33m ([m[1;31morigin/11-start[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 20 13:59:39 2021 -0500
+
+    10 - Your first web page
+
+[33mcommit 8711c1716e7792df227bfca351e2429ea9544dd9[m[33m ([m[1;31morigin/10-start[m[33m)[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 20 13:51:00 2021 -0500
+
+    Initial Project Setup
+
+[33mcommit 0f6eab4a3c7befa707764adb867a7e42431a3bcb[m
+Author: CFE <hello@teamcfe.com>
+Date:   Tue Jul 20 13:50:42 2021 -0500
+
+    Updated gitignore
+
+[33mcommit 915d6b1ea672aa5343296c691f0f1f6b91d13614[m
+Author: Coding For Entrepreneurs <codingforentrepreneurs@gmail.com>
+Date:   Mon Mar 15 22:50:36 2021 -0700
+
+    Update README.md
+
+[33mcommit 95b99c85e58537434d0b59432bd468b14d1ba956[m
+Author: Coding For Entrepreneurs <codingforentrepreneurs@gmail.com>
+Date:   Sat Nov 14 23:10:48 2020 -0800
+
+    Update README.md
+
+[33mcommit f76a18ae1f4d0cadabbb5f9c7fccbdf5e3025e84[m
+Author: Coding For Entrepreneurs <codingforentrepreneurs@gmail.com>
+Date:   Sat Nov 14 23:10:14 2020 -0800
+
+    Initial commit
